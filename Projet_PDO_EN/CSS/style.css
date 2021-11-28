@@ -1,0 +1,122 @@
+body {
+	font-family: Arial;
+	background-color: #777575;
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	background: black;
+}
+.copyright {
+	color: white;
+	text-align: center;
+}
+.navuser {
+	background-color: #BADFF7;
+	text-align: center;
+	padding-left: 250px;
+}
+.nav {
+	background-color: #BADFF7;
+	text-align: center;
+	padding-left: 20px;
+}
+.homelogo {
+	width: 65px;
+	height: 55px;
+}
+.h2form {
+	text-align: center;
+	padding-bottom: 20px
+}
+.h2user {
+	text-align: center;
+	font-weight: initial;
+}
+.blockformlogin {
+	padding-top: 55px;
+	margin: auto;
+	margin-top: 150px;
+	width: 500px;
+	height: 240px;
+	background-color: #BADFF7;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px #393939;
+}
+.blockformedit {
+	padding-top: 55px;
+	margin: auto;
+	margin-top: 150px;
+	width: 550px;
+	height: 300px;
+	background-color: #BADFF7;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px #393939;
+}
+.blockformsignup {
+	padding-top: 55px;
+	margin: auto;
+	margin-top: 150px;
+	width: 500px;
+	height: 270px;
+	background-color: #BADFF7;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px #393939;
+}
+.blockhomeuser {
+	padding-top: 30px;
+	margin: auto;
+	margin-top: 30px;
+	width: 1350px;
+	height: 530px;
+	background-color: #BADFF7;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px #393939;
+}
+.blockformled {
+	text-align: center;
+	padding-top: 20px;
+	float: right;
+	margin-right: 40px;
+	width: 400px;
+	height: 420px;
+	background-color: #95CAFB;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px #525252;
+}
+.blockcamera {
+	text-align: center;
+	padding-top: 20px;
+	float: left;
+	margin-left: 40px;
+	width: 800px;
+	height: 420px;
+	background-color: #95CAFB;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px #525252;
+}
+.blockformcam {
+	padding-top: 55px;
+	margin: auto;
+	margin-top: 150px;
+	width: 500px;
+	height: 230px;
+	background-color: #BADFF7;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px #393939;
+}
+.h4management {
+	padding-bottom: 20px;
+}
+.ledsubmit {
+	padding-top: 10px;
+	padding-left: 10px;
+}
+#ledOff1 {
+	width: 30px;
+	height: 29px;
+}
+.formledarray {
+	padding-right: 10px;
+}
